@@ -24,7 +24,7 @@ It's a turn-based, two-player logic game where ball movement, paddle positions, 
 - 📦 Minimalistic and gas-conscious design  
   
 ---
-
+   
 ## 🧪 Example Interaction
 
 ```solidity
