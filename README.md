@@ -31,7 +31,7 @@ It's a turn-based, two-player logic game where ball movement, paddle positions, 
 // Player 1 joins
 pong.joinGame();
 
-// Player 2 joins
+// Player 2 joins  
 pong.joinGame();
 
 // Move paddle down
