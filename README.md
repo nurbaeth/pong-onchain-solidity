@@ -16,7 +16,7 @@ It's a turn-based, two-player logic game where ball movement, paddle positions, 
       
 ---     
       
-## 🚀 Features   
+## 🚀 Features     
   
 - ⛓️ 100% on-chain logic (no JS frontend)     
 - 🧠 Smart contract-based physics (velocity, collision, scoring)   
