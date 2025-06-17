@@ -35,7 +35,7 @@ pong.joinGame();
 pong.joinGame();
 
 // Move paddle down
-pong.movePaddle(false);
+pong.movePaddle(false);   
 
 // Update ball (any player can call)
 pong.updateBall();
