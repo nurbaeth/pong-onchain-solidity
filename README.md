@@ -22,7 +22,7 @@ It's a turn-based, two-player logic game where ball movement, paddle positions, 
 - 🧠 Smart contract-based physics (velocity, collision, scoring)   
 - 👥 Two-player mode (only one game at a time)  
 - 📦 Minimalistic and gas-conscious design  
-
+  
 ---
 
 ## 🧪 Example Interaction
