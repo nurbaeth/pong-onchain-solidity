@@ -29,7 +29,7 @@ It's a turn-based, two-player logic game where ball movement, paddle positions, 
 
 ```solidity  
 // Player 1 joins
-pong.joinGame();
+pong.joinGame();  
 
 // Player 2 joins  
 pong.joinGame();
