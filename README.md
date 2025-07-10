@@ -6,7 +6,7 @@ It's a turn-based, two-player logic game where ball movement, paddle positions, 
 ---    
     
 ## ⚙️ How It Works    
-   
+    
 - Two players join the game via `joinGame()`  
 - Paddles are moved using `movePaddle(bool up)`    
 - Ball is updated using `updateBall()` — it checks for collisions, bounces, and scores
