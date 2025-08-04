@@ -25,7 +25,7 @@ It's a turn-based, two-player logic game where ball movement, paddle positions, 
     
 ---
       
-## 🧪 Example Interaction
+## 🧪 Example Interaction 
 
 ```solidity  
 // Player 1 joins
