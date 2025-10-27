@@ -11,7 +11,7 @@ It's a turn-based, two-player logic game where ball movement, paddle positions, 
 - Paddles are moved using `movePaddle(bool up)`          
 - Ball is updated using `updateBall()` — it checks for collisions, bounces, and scores   
 - Game state is tracked with on-chain variables: positions, scores, velocity         
-    
+     
 > Think of it as **on-chain chess** but for Pong          
         
 ---       
