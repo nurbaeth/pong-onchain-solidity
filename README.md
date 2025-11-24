@@ -13,7 +13,7 @@ It's a turn-based, two-player logic game where ball movement, paddle positions, 
 - Game state is tracked with on-chain variables: positions, scores, velocity          
       
 > Think of it as **on-chain chess** but for Pong           
-         
+          
 ---       
         
 ## 🚀 Features     
