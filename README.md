@@ -15,7 +15,7 @@ It's a turn-based, two-player logic game where ball movement, paddle positions, 
 > Think of it as **on-chain chess** but for Pong           
           
 ---       
-        
+         
 ## 🚀 Features     
   
 - ⛓️ 100% on-chain logic (no JS frontend)          
