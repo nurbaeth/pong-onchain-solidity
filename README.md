@@ -1,5 +1,5 @@
 # 🕹️ Pong On-Chain (Solidity Edition)           
-          
+           
 This is a fully on-chain Pong game built with Solidity.      
 It's a turn-based, two-player logic game where ball movement, paddle positions, and scoring happen **entirely inside a smart contract**. No frontend — just pure Ethereum magic 🧙‍♂️        
           
